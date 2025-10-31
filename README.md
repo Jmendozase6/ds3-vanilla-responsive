@@ -1,3 +1,6 @@
+<!-- Imagen -->
+![Responsive Product Page](https://www.ds3comunicaciones.com/Logo1.jpg)
+
 # Proyecto: Página de Producto Responsiva - Versión Vanilla
 
 Este proyecto es una reconstrucción de una página de producto utilizando únicamente **HTML, CSS y JavaScript puros** ("Vanilla Stack"). El objetivo es demostrar un dominio de los fundamentos del desarrollo web, incluyendo HTML semántico, CSS moderno (Flexbox, Grid, Custom Properties) y JavaScript para la manipulación del DOM.
